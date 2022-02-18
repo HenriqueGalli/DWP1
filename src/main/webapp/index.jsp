@@ -7,7 +7,7 @@
 <title>Teste 1</title>
 </head>
 <body>
-	<h1>Teste 1</h1>
-	<p><%= new java.util.Date() %></p>
+	<h1>Teste 2</h1>
+	<p>A data atual é<%= new java.util.Date() %></p>
 </body>
 </html>
